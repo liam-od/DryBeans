@@ -1,0 +1,15 @@
+[0] Config.pm:325> INFO - This is Biber 2.20
+[0] Config.pm:328> INFO - Logfile is 'build/18977995assignment1.blg'
+[45] biber:340> INFO - === Wed Sep  4, 2024, 10:08:17
+[54] Biber.pm:420> INFO - Reading 'build/18977995assignment1.bcf'
+[91] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[100] Biber.pm:4463> INFO - Processing section 0
+[105] Biber.pm:4654> INFO - Looking for bibtex file 'refs.bib' for section 0
+[106] bibtex.pm:1713> INFO - LaTeX decoding ...
+[108] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[145] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[145] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[145] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[145] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[147] bbl.pm:676> INFO - Writing 'build/18977995assignment1.bbl' with encoding 'UTF-8'
+[148] bbl.pm:779> INFO - Output to build/18977995assignment1.bbl

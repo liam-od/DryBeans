@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{fund}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=ba5ff2597d5187d9653dc9420ae22ac4}{%
+           family={Kelleher},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e0131e6cf601d970b938dde3fa02b606}{%
+           family={Mac\bibnamedelima Namee},
+           familyi={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8a65492526d5d482b35a4e32ca9ff989}{%
+           family={D'Arcy},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{fullhash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{fullhashraw}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{bibnamehash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{authorbibnamehash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{authornamehash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{authorfullhash}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \strng{authorfullhashraw}{30a7c9900f6a2fad57e698aba2cc9bd5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies}
+      \field{year}{2020}
+    \endentry
+    \entry{snr}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=03420b2bf93a74a680e1ac2281a3c1e6}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Jun-Young},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=84e20e2f5df92a6132bf5a2c8f8cee99}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hanho},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{fullhash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{fullhashraw}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{bibnamehash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{authorbibnamehash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{authornamehash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{authorfullhash}{f8813fe6ea696aa18bd661543cc30115}
+      \strng{authorfullhashraw}{f8813fe6ea696aa18bd661543cc30115}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 International Conference on Electronics, Information, and Communication (ICEIC)}
+      \field{title}{Machine Learning-based Signal-to-Noise Ratio Estimation using Amplitude Frequency Vector}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+    \endentry
+    \entry{sk}{inproceedings}{}{}
+      \name{author}{15}{}{%
+        {{hash=5325438f4daa7970e2720791d9ac690f}{%
+           family={Buitinck},
+           familyi={B\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=832b9967410c05c324eec6e9b19da71e}{%
+           family={Louppe},
+           familyi={L\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d3b6c8582cea4e8b6576137b6a72cadc}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bab4e5caee2d67831e464ce575022b37}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8a6c9c0890b96766b8cc7c152d7b86a8}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=721be0317527f44db425f7a97dcab15e}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7fb1184b4b06404ea26547130860771e}{%
+           family={Niculae},
+           familyi={N\bibinitperiod},
+           given={Vlad},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86e647e5c801f3ce733927f75f029463}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=12ebe424e1c87de156c57e8fa7683f46}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dd23caf60ef6fe47d09bad8ff0dc8695}{%
+           family={Grobler},
+           familyi={G\bibinitperiod},
+           given={Jaques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b77398bb05b09a70738309551dc505a7}{%
+           family={Layton},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0fd9a0e34f1b2adda41357c948d14986}{%
+           family={VanderPlas},
+           familyi={V\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=557b78cbca511465f0b78ac10c0a9ce3}{%
+           family={Joly},
+           familyi={J\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3309917dfb1d5f26d52eb9264a3296a0}{%
+           family={Holt},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfa3239dded54488f9a82a5718d5b927}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={Gaël},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8013e59991ab833d42c86ac9daf5e6ba}
+      \strng{fullhash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{fullhashraw}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{bibnamehash}{8013e59991ab833d42c86ac9daf5e6ba}
+      \strng{authorbibnamehash}{8013e59991ab833d42c86ac9daf5e6ba}
+      \strng{authornamehash}{8013e59991ab833d42c86ac9daf5e6ba}
+      \strng{authorfullhash}{e16647faba7aef4d40aca3c94f5333ad}
+      \strng{authorfullhashraw}{e16647faba7aef4d40aca3c94f5333ad}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ECML PKDD Workshop: Languages for Data Mining and Machine Learning}
+      \field{title}{{API} design for machine learning software: experiences from the scikit-learn project}
+      \field{year}{2013}
+      \field{pages}{108\bibrangedash 122}
+      \range{pages}{15}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

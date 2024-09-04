@@ -1,0 +1,406 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ebken}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=3c48c2b390e26f548e0165030fc81158}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bf02564a54f2efb38a4d61a5ecadbee}{%
+           family={Eberhart},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{fullhash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{fullhashraw}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{bibnamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorbibnamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authornamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorfullhash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorfullhashraw}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE International Joint Conference on Neural Networks}
+      \field{title}{Particle Swarm Optimization}
+      \field{year}{1995}
+      \true{nocite}
+      \field{pages}{1942\bibrangedash 1948}
+      \range{pages}{7}
+    \endentry
+    \entry{sheb}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=846f5daf861748af3cff8500355fae0d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5bf02564a54f2efb38a4d61a5ecadbee}{%
+           family={Eberhart},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{fullhash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{fullhashraw}{a608bce034d83b666242e8ebff6fe152}
+      \strng{bibnamehash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{authorbibnamehash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{authornamehash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{authorfullhash}{a608bce034d83b666242e8ebff6fe152}
+      \strng{authorfullhashraw}{a608bce034d83b666242e8ebff6fe152}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE Congress on Evolutionary Computation}
+      \field{title}{A modified Particle Swarm Optimizer}
+      \field{year}{1998}
+      \true{nocite}
+      \field{pages}{69\bibrangedash 73}
+      \range{pages}{5}
+    \endentry
+    \entry{nervenets}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5a974296313f28b3fec2120402a76512}{%
+           family={McCulloch},
+           familyi={M\bibinitperiod},
+           given={W.\bibnamedelimi S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=93e9d958fdc1fb276c6cfc6c92608df6}{%
+           family={Pitts},
+           familyi={P\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{fullhash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{fullhashraw}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{bibnamehash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{authorbibnamehash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{authornamehash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{authorfullhash}{e787960e41221e5aee1368e7a6bbfb85}
+      \strng{authorfullhashraw}{e787960e41221e5aee1368e7a6bbfb85}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The bulletin of mathematical biophysics}
+      \field{title}{A logical calculus of the ideas immanent in nervous activity}
+      \field{year}{1943}
+      \true{nocite}
+      \field{pages}{115\bibrangedash 133}
+      \range{pages}{19}
+    \endentry
+    \entry{fuk}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4d2b3b24379c52058ccdc095a13b043e}{%
+           family={Fukushima},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{fullhashraw}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{bibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorbibnamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authornamehash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhash}{4d2b3b24379c52058ccdc095a13b043e}
+      \strng{authorfullhashraw}{4d2b3b24379c52058ccdc095a13b043e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Cybernetics}
+      \field{title}{Cognitron: A self-organizing multilayered neural network}
+      \field{volume}{20}
+      \field{year}{1975}
+      \true{nocite}
+      \field{pages}{121\bibrangedash 136}
+      \range{pages}{16}
+    \endentry
+    \entry{koh}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0b7d978857e7d6f9646fc2201f31963d}{%
+           family={Kohonen},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{fullhash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{fullhashraw}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{bibnamehash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{authorbibnamehash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{authornamehash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{authorfullhash}{0b7d978857e7d6f9646fc2201f31963d}
+      \strng{authorfullhashraw}{0b7d978857e7d6f9646fc2201f31963d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{title}{Self-organized formation of topologically correct feature maps}
+      \field{volume}{43}
+      \field{year}{1982}
+      \true{nocite}
+      \field{pages}{59\bibrangedash 69}
+      \range{pages}{11}
+    \endentry
+    \entry{apenb}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=07e1717c2caa6e990efc4e2823844af4}{%
+           family={Engelbrecht},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{fullhash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{fullhashraw}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{bibnamehash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{authorbibnamehash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{authornamehash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{authorfullhash}{07e1717c2caa6e990efc4e2823844af4}
+      \strng{authorfullhashraw}{07e1717c2caa6e990efc4e2823844af4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Computational Intelligence: An Introduction}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{scratch}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=569b4c3d9524ee2591d7648421e5d7af}{%
+           family={Kinsley},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=db2da7915fb599d794fdb5aec772aa3b}{%
+           family={Kukiela},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{21a58157a7604435bd229b64aefab917}
+      \strng{fullhash}{21a58157a7604435bd229b64aefab917}
+      \strng{fullhashraw}{21a58157a7604435bd229b64aefab917}
+      \strng{bibnamehash}{21a58157a7604435bd229b64aefab917}
+      \strng{authorbibnamehash}{21a58157a7604435bd229b64aefab917}
+      \strng{authornamehash}{21a58157a7604435bd229b64aefab917}
+      \strng{authorfullhash}{21a58157a7604435bd229b64aefab917}
+      \strng{authorfullhashraw}{21a58157a7604435bd229b64aefab917}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Neural Networks from Scratch in Python}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{adam}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d09e09d2cd56777abc7316017cc5b054}{%
+           family={Kingma},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=269e85c86b7191d8814ace202944f295}{%
+           family={Ba},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{fullhash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{fullhashraw}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{bibnamehash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{authorbibnamehash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{authornamehash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{authorfullhash}{48e9c6f531d6d7d6c5e2921348779df5}
+      \strng{authorfullhashraw}{48e9c6f531d6d7d6c5e2921348779df5}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1412.6980}
+      \field{title}{Adam: A method for stochastic optimization}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{bp1}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7ae4145082bf6cc3c25487b8e307d077}{%
+           family={Werbos},
+           familyi={W\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=19e0cde0ae6ef096688fc13c5bc265af}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{fullhash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{fullhashraw}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{bibnamehash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{authorbibnamehash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{authornamehash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{authorfullhash}{cd563ddb07834a62078872c6a98e4f29}
+      \strng{authorfullhashraw}{cd563ddb07834a62078872c6a98e4f29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Beyond regression : new tools for prediction and analysis in the behavioral sciences}
+      \field{year}{1974}
+      \true{nocite}
+    \endentry
+    \entry{bp2}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=0cb32ce01543d39fae18094391a330bc}{%
+           family={Rumelhart},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9c5f7dcfa6f8cfad7a98e00d2c3b338d}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3740d28ae1ebd03c4353c0cb357b2558}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{fullhash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{fullhashraw}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{bibnamehash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{authorbibnamehash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{authornamehash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{authorfullhash}{e71fa8a17614b618f95705d1b4c8b7da}
+      \strng{authorfullhashraw}{e71fa8a17614b618f95705d1b4c8b7da}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Parallel Distributed Processing: Explorations in the Microstructure of Cognition}
+      \field{title}{Learning internal representations by error propagation}
+      \field{volume}{1}
+      \field{year}{1986}
+      \true{nocite}
+      \field{pages}{318\bibrangedash 362}
+      \range{pages}{45}
+    \endentry
+    \entry{psonn}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=5bf02564a54f2efb38a4d61a5ecadbee}{%
+           family={Eberhart},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3c48c2b390e26f548e0165030fc81158}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{fullhash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{fullhashraw}{271881e47dbf37ed14e2feff589ca230}
+      \strng{bibnamehash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{authorbibnamehash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{authornamehash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{authorfullhash}{271881e47dbf37ed14e2feff589ca230}
+      \strng{authorfullhashraw}{271881e47dbf37ed14e2feff589ca230}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Sixth International Symposium on Micromachine and Human Science}
+      \field{title}{A New Optimizer using Particle Swarm Theory}
+      \field{year}{1995}
+      \true{nocite}
+      \field{pages}{39\bibrangedash 43}
+      \range{pages}{5}
+    \endentry
+    \entry{psonn2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=3c48c2b390e26f548e0165030fc81158}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{fullhash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{fullhashraw}{3c48c2b390e26f548e0165030fc81158}
+      \strng{bibnamehash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{authorbibnamehash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{authornamehash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{authorfullhash}{3c48c2b390e26f548e0165030fc81158}
+      \strng{authorfullhashraw}{3c48c2b390e26f548e0165030fc81158}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE International Conference on Evolutionary Computation}
+      \field{title}{The Particle Swarm: Social Adaptation of Knowledge}
+      \field{year}{1997}
+      \true{nocite}
+      \field{pages}{303\bibrangedash 308}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
